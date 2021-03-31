@@ -1,0 +1,21 @@
+{
+  "name": "npm-web-camera",
+  "version": "1.0.0",
+  "description": "Camera library for angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:mkc110891/npm-web-camera.git"
+  },
+  "keywords": [
+    "angular",
+    "webcam",
+    "camera",
+    "camera-library"
+  ],
+  "author": "Mayank Chauhan",
+  "license": "ISC"
+}
